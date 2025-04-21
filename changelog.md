@@ -25,6 +25,6 @@
 
 # Version 0.0.1
 
-## 🌱 First release! 
+## 🌱 First release!
 
-> Checkout the storefront at [codabool.itch.io/terminal](https://codabool.itch.io/terminal)!
+> Checkout the storefront at [codabool.itch.io](https://codabool.itch.io)!
