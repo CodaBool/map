@@ -12,7 +12,7 @@ Here you'll find the following:
 - Keep a [changelog](https://github.com/CodaBool/map/blob/main/changelog.md) of features
 
 
-### **🔎 Details**
+# **🔎 Details**
 
 The official module to integrate with [Stargazer](https://stargazer.vercel.app/).
 
@@ -20,7 +20,7 @@ The official module to integrate with [Stargazer](https://stargazer.vercel.app/)
 
 This module helps GMs manage Stargazer maps within Foundry.
 
-### **✨ Features**
+# **✨ Features**
 
 - view accurate maps for select systems
     - currently Lancer, Fallout, and Star Wars (Alien and Cyberpunk will be added later)
@@ -30,7 +30,7 @@ This module helps GMs manage Stargazer maps within Foundry.
 - link to Foundry documents like journals & macros
 
 
-### **📍 Quests**
+# **📍 Quests**
 
 What's a map without a destination? I've integrated with the most popular free module for quests, [Forien's Quest Log](https://foundryvtt.com/packages/forien-quest-log). Integration with the most popular premium module, [Simple Quest](https://foundryvtt.com/packages/simple-quest), will be added later.
 
