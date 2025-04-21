@@ -1,8 +1,8 @@
-# **🪐Map**
+# 🪐Map - Stargazer
 
 [![Static Badge](https://img.shields.io/badge/Itch.io-CodaBool-red?style=flat-square&logo=itchdotio)](https://codabool.itch.io) [![Static Badge](https://img.shields.io/badge/Discord-CodaBool-blue?style=flat-square&logo=discord)](https://discord.gg/foundryvtt) [![Static Badge](https://img.shields.io/badge/Foundry%20Verfied%20Version-12-brightgreen?style=flat-square&logo=checkmarx)](https://github.com/CodaBool/terminal/issues)
 
-> Create Interactive maps with custom content and theming
+> Create Interactive maps with custom content and theming for FoundryVTT
 
 
 # 👋 Welcome
