@@ -3,13 +3,11 @@
   "title": "Map - Stargazer",
   "version": "0.0.1",
   "manifest": "https://raw.githubusercontent.com/CodaBool/map/main/module.json",
-  "changelog": "https://github.com/CodaBool/map/blob/main/changelog.md",
-  "bugs": "https://github.com/CodaBool/map/issues",
-  "url": "https://github.com/CodaBool/map",
   "description": "Foundry's most powerful map creator",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "12",
+    "maximum": "12"
   },
   "authors": [
     {
@@ -26,7 +24,6 @@
     "scripts/tutorial.js"
   ],
   "socket": true,
-  "protected": true,
   "persistentStorage": true,
   "styles": ["global.css"]
 }
