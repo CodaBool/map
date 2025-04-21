@@ -1,0 +1,34 @@
+permissions:
+  contents: write
+on:
+  push:
+    branchs:
+      - main
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: get version and changes
+        run: |
+          changelog_contents=""
+          inside_section=false
+          while IFS= read -r line; do
+            if [[ $line == "# Version "* ]]; then
+              if [ "$inside_section" = false ]; then
+                inside_section=true
+              else
+                break
+              fi
+            fi
+            if [ "$inside_section" = true ] && [[ $line != "# Version"* ]]; then
+              changelog_contents="$changelog_contents$line"$'\n'
+            fi
+          done < changelog.md
+          echo "$changelog_contents" > latest.md
+          echo "version=$(cat module.json | jq -r .version)" >> $GITHUB_ENV
+      - uses: softprops/action-gh-release@v1
+        with:
+          body_path: latest.md
+          tag_name: v${{ env.version }}
+          files: module.json
