@@ -22,11 +22,11 @@ This module helps GMs manage Stargazer maps within Foundry.
 
 # **✨ Features**
 
-- view accurate maps for select systems
-    - currently Lancer, Fallout, and Star Wars (Alien and Cyberpunk will be added later)
+- view accurate maps the Lancer system
+  - currently Lancer is the only system fully supported. However, there is also support for custom maps.
 - add your own location and shapes to the map
 - publish your map on the web
-- automatically generate scenes from your map
+- automatically generate a Foundry scene from your map
 - link to Foundry documents like journals & macros
 
 
@@ -37,6 +37,6 @@ What's a map without a destination? I've integrated with the most popular free m
 
 # **🔑 Access**
 
-> Purchase information TBD, follow me on [itch.io](https://codabool.itch.io/)
+> Purchase information TBD, follow me on [itch.io](https://codabool.itch.io/)
 
 Access will be permanent and all updates will be free
