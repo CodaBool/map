@@ -27,4 +27,4 @@
 
 ## 🌱 First release!
 
-> We're live [itch](https://codabool.itch.io/stargazer) & [store](https://www.foundryvtt.store/products/map)!
+> We're live, see [itch](https://codabool.itch.io/stargazer) & [store](https://www.foundryvtt.store/products/map)!
