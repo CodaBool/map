@@ -4,7 +4,6 @@
 
 > Create Interactive maps with custom content and theming for Foundry
 
-
 # 👋 Welcome
 Here you'll find the following:
 
