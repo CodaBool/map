@@ -1,16 +1,16 @@
 {
   "id": "map",
   "title": "Map - Stargazer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest": "https://raw.githubusercontent.com/CodaBool/map/main/module.json",
-  "changelog": "https://github.com/CodaBool/terminal/blob/main/changelog.md",
+  "changelog": "https://github.com/CodaBool/map/blob/main/changelog.md",
   "url": "https://github.com/CodaBool/map",
   "bugs": "https://github.com/CodaBool/map/issues",
-  "description": "Create custom sci-fi maps using stargazer",
+  "description": "Create custom maps using Stargazer",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12",
-    "maximum": "12"
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "14"
   },
   "authors": [
     {
@@ -26,8 +26,60 @@
     "scripts/util.js",
     "scripts/tutorial.js"
   ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "localization/english.json"
+    },
+    {
+      "lang": "es",
+      "name": "Spanish",
+      "path": "localization/spanish.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "localization/german.json"
+    },
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "localization/italian.json"
+    },
+    {
+      "lang": "ja",
+      "name": "日本語",
+      "path": "localization/japanese.json"
+    },
+    {
+      "lang": "ko",
+      "name": "한국어",
+      "path": "localization/korean.json"
+    },
+    {
+      "lang": "pl",
+      "name": "Polski",
+      "path": "localization/polish.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "localization/portuguese.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "localization/russian.json"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "简体中文",
+      "path": "localization/chinese.json"
+    }
+  ],
   "socket": true,
-  "protected": true,
   "persistentStorage": true,
+  "protected": true,
   "styles": ["global.css"]
 }
