@@ -8,7 +8,7 @@
   "bugs": "https://github.com/CodaBool/map/issues",
   "description": "Create custom maps using Stargazer",
   "compatibility": {
-    "minimum": "13",
+    "minimum": "12",
     "verified": "13",
     "maximum": "14"
   },
