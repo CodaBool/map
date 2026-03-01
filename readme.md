@@ -32,7 +32,6 @@ This module helps GMs manage Stargazer maps within Foundry.
 - view your maps in a re-sizable Foundry window
 - use Stargazer's measuring and coordinate tools
 
-
 # **📍 Quests**
 
 What's a map without a destination? I've integrated with the most popular free module for quests, [Forien's Quest Log](https://foundryvtt.com/packages/forien-quest-log). As well as [Campaign Codex](https://foundryvtt.com/packages/campaign-codex).
