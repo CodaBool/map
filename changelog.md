@@ -12,7 +12,7 @@
 :\        ############            \    ||    (=====*======)  ||
 : ---------------------------------     V          *          V
 : |  *   |__________|| ::::::::::  |    o   (======*=======) o
-\ |      |          ||   .......   |    \\         *         ||
+\ |      |LOVE  LAIN||   .......   |    \\         *         ||
   --------------------------------- 8   ||   (=====*======)  //
                                      8   V         *         V
   --------------------------------- 8   =|=;  (==/ * \==)   =|=
@@ -27,4 +27,4 @@
 
 ## 🌱 First release!
 
-> Checkout the storefront at [codabool.itch.io](https://codabool.itch.io)!
+> We're live [itch](https://codabool.itch.io/stargazer) & [store](https://www.foundryvtt.store/products/map)!

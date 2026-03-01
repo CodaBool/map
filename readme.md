@@ -27,9 +27,9 @@ This module helps GMs manage Stargazer maps within Foundry.
 - add your own locations to the map
 - publish your map
 - automatically generate scenes from your map
-  - automatically creates interactable notes
+  - automatically creates intractable notes
 - link to Foundry documents like journals & macros & scenes
-- view your maps in a resizable Foundry window
+- view your maps in a re-sizable Foundry window
 - use Stargazer's measuring and coordinate tools
 
 
@@ -44,7 +44,6 @@ What's a map without a destination? I've integrated with the most popular free m
 
 Access is **permanent** and all future updates come **free**
 
-
-## **🔑 Notifications**
+# **🔔 Notifications**
 - follow me on [itch.io](https://codabool.itch.io/) for major updates
 - for minor updates, you can watch on [GitHub](https://github.com/CodaBool/map)
