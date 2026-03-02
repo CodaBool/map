@@ -35,7 +35,6 @@ This module helps GMs manage Stargazer maps within Foundry.
 
 What's a map without a destination? I've integrated with the most popular free module for quests, [Forien's Quest Log](https://foundryvtt.com/packages/forien-quest-log). As well as [Campaign Codex](https://foundryvtt.com/packages/campaign-codex).
 
-
 # **🔑 Access**
 
 > Purchase through the [Foundry store](https://www.foundryvtt.store/products/map)
