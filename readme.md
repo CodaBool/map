@@ -11,7 +11,6 @@ Here you'll find the following:
 - Keep a [changelog](https://github.com/CodaBool/map/blob/main/changelog.md) of features
 - A [wiki](https://github.com/CodaBool/map/wiki) for common questions
 
-
 # **🔎 Details**
 
 The official module to integrate with [Stargazer](https://stargazer.vercel.app).
