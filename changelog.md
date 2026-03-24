@@ -23,6 +23,9 @@
       *********************************     ()           ()
 </pre>
 
+# Version 0.0.2
+- create a newcomer chat message
+
 # Version 0.0.1
 
 ## 🌱 First release!
