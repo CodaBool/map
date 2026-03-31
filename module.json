@@ -1,7 +1,7 @@
 {
   "id": "map",
   "title": "Map - Stargazer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest": "https://raw.githubusercontent.com/CodaBool/map/main/module.json",
   "changelog": "https://github.com/CodaBool/map/blob/main/changelog.md",
   "url": "https://github.com/CodaBool/map",
