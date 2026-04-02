@@ -1,7 +1,7 @@
 {
   "id": "map",
   "title": "Map - Stargazer",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "manifest": "https://raw.githubusercontent.com/CodaBool/map/main/module.json",
   "changelog": "https://github.com/CodaBool/map/blob/main/changelog.md",
   "url": "https://github.com/CodaBool/map",
@@ -9,7 +9,7 @@
   "description": "Create custom maps using Stargazer",
   "compatibility": {
     "minimum": "12",
-    "verified": "13",
+    "verified": "14",
     "maximum": "14"
   },
   "authors": [

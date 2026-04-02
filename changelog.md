@@ -22,6 +22,13 @@
      \________________________________\     ()   \o o/   ()
       *********************************     ()           ()
 </pre>
+# Version 0.0.4
+> I am working on fixing integration with campaign codex which was broken in their latest update
+
+- don't show extras for a map note if there's nothing to show
+- fix base maps not becoming default
+- fix a bug with automation buttons not showing
+- mark as v14 verified
 
 # Version 0.0.3
 - add in base system maps
