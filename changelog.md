@@ -22,6 +22,9 @@
      \________________________________\     ()   \o o/   ()
       *********************************     ()           ()
 </pre>
+# Version 0.0.5
+- hotfix for a bad import statement
+
 # Version 0.0.4
 > I am working on fixing integration with campaign codex which was broken in their latest update
 
