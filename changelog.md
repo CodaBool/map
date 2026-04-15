@@ -22,6 +22,11 @@
      \________________________________\     ()   \o o/   ()
       *********************************     ()           ()
 </pre>
+# Version 0.0.6
+- fix various v14 issues
+- get at least a working compatibility with campgaign codex after their update
+  - more changes are still needed. Not sure if some issues are on Campaign Codex's side. For example quests are never visible in v14 from a player's view.
+
 # Version 0.0.5
 - hotfix for a bad import statement
 
