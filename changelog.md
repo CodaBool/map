@@ -22,6 +22,9 @@
      \________________________________\     ()   \o o/   ()
       *********************************     ()           ()
 </pre>
+# Version 0.0.7
+- fix an issue where stargazer password could not be saved
+
 # Version 0.0.6
 - fix various v14 issues
 - get at least a working compatibility with campgaign codex after their update
