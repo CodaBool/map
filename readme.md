@@ -14,7 +14,7 @@ Here you'll find the following:
 
 # **🔎 Details**
 
-The official module to integrate with [Stargazer](https://the-cartographer.vercel.app).
+The official module to integrate with [Stargazer](https://stargazer.vercel.app).
 
 > Stargazer is a free open source web app. Which allows users to leverage a wealth of lore accurate location data.
 
